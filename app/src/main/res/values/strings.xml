@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ad Interstitial Demo</string>
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Fullscreen Ad</string>
+
+    <!-- AdMob ad unit IDs -->
+    <!--<string name="banner_bottom">ca-app-pub-7547111566292875/9959805146</string>-->
+    <string name="banner_bottom">ca-app-pub-2907279761318669/5371404235</string>
+    <!--<string name="interstitial_full_screen">ca-app-pub-9288850963499349/8723517310</string>-->
+    <string name="interstitial_full_screen">ca-app-pub-2907279761318669/9442511187</string>
+    <string name="com.appsee.apikey" translatable="false">b3c41db3e7274118a16f605a65d4bd7e</string>
+    <string name="io.branch.apiKey" translatable="false">key_live_bhFTgTpu3QQiYdbUU7rU9dpkAso6Kdj3</string>
+
+    <string name="com.pubnub.publishKey" translatable="false">pub-c-0d10b0ed-6b9e-4edd-885f-70c1638b31dc</string>
+    <string name="com.pubnub.secretKey" translatable="false">sec-c-MmNiZWJiYmQtNzMzOS00OGI0LTg0MTAtNTU1MmQ5N2RlNjc3</string>
+    <string name="com.pubnub.subscribeKey" translatable="false">sub-c-9e03f972-a829-11e7-8cb5-d25371bdaf30</string>
+    <string name="pubnub_channel">Channel-South</string>
+</resources>
+
